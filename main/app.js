@@ -11,5 +11,5 @@
                 break;
         }
     }else{
-        $("body").append(`<script src="https://cdn.jsdelivr.net/gh/laodingKJ/zzy-neit@a7hacker/main/${typeIndex===2?'special_':''}cont.min.js"></srcipt>`);
+        $("body").append(`<script src="https://cdn.jsdelivr.net/gh/laodingKJ/zzy-neit@a7hacker/main/app.js"></srcipt>`);
     }
